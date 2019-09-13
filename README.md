@@ -32,7 +32,7 @@ Describe the time you spent on the project.
 
 ## GIF Walkthrough
 
-![Walkthrough GIF](path/to/gif.gif)
+https://github.com/mslazak22/tip-calc/blob/master/tip-calc.gif
 
 GIF created with [LiceCap](https://www.cockos.com/licecap/).
 
