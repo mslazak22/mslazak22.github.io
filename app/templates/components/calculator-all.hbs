@@ -1,0 +1,16 @@
+<div id="container">
+    <h1>Tip Calculator</h1>
+    <div id="calculator">
+        <form>
+            <p>Amount: <input id="amount" /></p>
+            <p>Tip Percentage: <input id="percentage" /></p>
+            <p>Amount of people: <input id="people" /></p>
+            <hr />
+            <p>Tip: <input id="tip" disabled="disabled" /></p>
+            <p>Total: <input id="total" disabled="disabled" /></p>
+            <p>Amount per Person: <input id="amtPerPerson" disabled="disabled" /></p>
+            <button type="reset">Reset</button>
+            <button {{action 'calculate'}}>Calculate</button>
+        </form>
+    </div>
+</div>
